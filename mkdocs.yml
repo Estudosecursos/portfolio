@@ -1,0 +1,19 @@
+---
+## `portfolio/mkdocs.yml`
+```yaml
+# portfolio/mkdocs.yml
+site_name: "Portfólio de Projetos"
+site_url: "https://SEU_USUARIO.github.io/portfolio"
+theme:
+  name: material
+
+plugins:
+  - search
+  - include-markdown
+
+nav:
+  - Início: index.md
+  - Sobre: about.md
+  - Projetos:
+      - "Curso de WebLogic 12c": projects/curso-weblogic-12c.md
+      - "Curso de Python": projects/curso-python.md
