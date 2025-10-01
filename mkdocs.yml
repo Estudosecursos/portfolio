@@ -1,19 +1,10 @@
----
-## `portfolio/mkdocs.yml`
-```yaml
-# portfolio/mkdocs.yml
-site_name: "Portfólio de Projetos"
-site_url: "https://SEU_USUARIO.github.io/portfolio"
+# /home/fabio/Documentos/Projetos/portfolio/mkdocs.yml
+site_name: Meu Portfólio
+nav:
+  - Início: index.md
+  - Projetos:
+      - Curso de WebLogic 12c: ../curso-weblogic-12c/README.md
+      - Curso de Python: ../curso-python/README.md
 theme:
   name: material
 
-plugins:
-  - search
-  - include-markdown
-
-nav:
-  - Início: index.md
-  - Sobre: about.md
-  - Projetos:
-      - "Curso de WebLogic 12c": projects/curso-weblogic-12c.md
-      - "Curso de Python": projects/curso-python.md

@@ -1,5 +1,5 @@
 <!-- ~/Projetos/portfolio/index.md -->
-# Bem-vindo ao meu Portfólio 🚀
+# Bem-vindo ao meu Portfólio
 
 Este portfólio reúne meus principais projetos desenvolvidos.
 
