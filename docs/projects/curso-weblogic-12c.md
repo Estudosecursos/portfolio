@@ -1,8 +1,5 @@
 # Weblogic 12c
 
-!!! info
-    Este projeto faz parte do portfólio.
-
 [Ver código no GitHub](https://github.com/Estudosecursos/curso-weblogic-12c)
 
 ```markdown

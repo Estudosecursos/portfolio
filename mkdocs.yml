@@ -3,6 +3,6 @@ nav:
   - Início: index.md
   - Sobre: about.md
   - Projetos:
-  - Golang: projects/curso-golang.md
-  - Python: projects/curso-python.md
-  - Weblogic 12c: projects/curso-weblogic-12c.md
+      - Golang: projects/curso-golang.md
+      - Python: projects/curso-python.md
+      - Weblogic 12c: projects/curso-weblogic-12c.md

@@ -1,8 +1,5 @@
 # Python
 
-!!! info
-    Este projeto faz parte do portfólio.
-
 [Ver código no GitHub](https://github.com/Estudosecursos/curso-python)
 
 ```markdown

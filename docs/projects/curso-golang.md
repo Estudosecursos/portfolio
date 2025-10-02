@@ -1,8 +1,5 @@
 # Golang
 
-!!! info
-    Este projeto faz parte do portfólio.
-
 [Ver código no GitHub](https://github.com/Estudosecursos/curso-golang)
 
 ```markdown
