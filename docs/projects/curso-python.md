@@ -1,12 +1,13 @@
----
+# Python
 
-## `portfolio/docs/projects/curso-python.md`
+!!! info
+    Este projeto faz parte do portfólio.
+
+[Ver código no GitHub](https://github.com/Estudosecursos/curso-python)
+
 ```markdown
-# Curso de Python
+<!-- ~/Projetos/curso-python/README.md -->
+# Curso de Python 🐍
 
-[Repositório no GitHub](https://github.com/SEU_USUARIO/curso-python)
-
----
-
-## Conteúdo do Projeto
-```{include} https://raw.githubusercontent.com/SEU_USUARIO/curso-python/main/README.md
+Material introdutório de Python com exemplos e exercícios.
+```
