@@ -14,7 +14,7 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
-    - navigation.expand
+    - navigation.tabs
     - toc.integrate
   hide:
     - toc
