@@ -12,6 +12,11 @@ nav:
 theme:
   name: material
   features:
-    - navigation.expand
+    - navigation.instant
     - navigation.sections
     - navigation.tabs
+    - toc.integrate
+  palette:
+    scheme: default
+    primary: deep purple
+    accent: indigo  
