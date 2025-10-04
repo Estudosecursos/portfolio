@@ -2,6 +2,7 @@
 
 Olá, eu sou **Fabio Rodrigues**
 
+- Analista de Infraestrutura Middleware
 - Data Engineer | Data Analyst | Machine Learning Enthusiast  
 - Experiência com Python, bancos de dados e automação de processos  
 - Apaixonado por tecnologia e aprendizado contínuo  
