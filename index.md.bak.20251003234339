@@ -1,0 +1,22 @@
+# Meu Portfólio de Projetos
+
+Bem-vindo ao meu portfólio! 🚀  
+Aqui você encontra meus principais projetos, experiências profissionais e currículo.
+
+![Minha Foto](assets/img/MEeALE1.jpeg)
+
+<p align="center">
+  <img src="assets/img/MEeALE2.jpeg" alt="Maria Elisa e Ana Letícia" width="200"/>
+</p>
+
+<!-- BEGIN PROJECTS -->
+- [Golang](projects/curso-golang.md)
+- [Python](projects/curso-python.md)
+- [Weblogic 12c](projects/curso-weblogic-12c.md)
+
+
+<!-- END PROJECTS -->
+
+<!--- [Golang](projects/curso-golang.md)
+- [Python](projects/curso-python.md)
+- [Weblogic 12c](projects/curso-weblogic-12c.md) -->
