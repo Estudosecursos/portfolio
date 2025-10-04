@@ -8,3 +8,10 @@ nav:
       - Golang: projects/curso-golang.md
       - Python: projects/curso-python.md
       - Weblogic 12c: projects/curso-weblogic-12c.md
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.tabs

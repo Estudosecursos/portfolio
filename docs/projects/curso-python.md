@@ -6,3 +6,4 @@
 # Curso de Python 🐍
 
 Material introdutório de Python com exemplos e exercícios.
+
