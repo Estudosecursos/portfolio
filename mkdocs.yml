@@ -14,8 +14,10 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
-    - navigation.tabs
+    - navigation.expand
     - toc.integrate
+  hide:
+    - toc
   palette:
     scheme: default
     primary: deep purple
