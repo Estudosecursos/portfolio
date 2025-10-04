@@ -2,6 +2,8 @@ site_name: Portfólio Estudosecursos
 nav:
   - Início: index.md
   - Sobre: about.md
+  - Experiência: experiencia.md
+  - Currículo: curriculo.md
   - Projetos:
       - Golang: projects/curso-golang.md
       - Python: projects/curso-python.md
